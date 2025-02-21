@@ -3,6 +3,10 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/webpack-cli/create-webpack-app/compare/create-new-webpack-app@1.1.0...create-new-webpack-app@1.1.1) (2025-02-21)
+
+**Note:** Version bump only for package create-new-webpack-app
+
 # 1.1.0 (2024-12-20)
 
 ### Bug Fixes

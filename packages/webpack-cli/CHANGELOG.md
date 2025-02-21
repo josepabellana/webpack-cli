@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.2](https://github.com/webpack/webpack-cli/compare/webpack-cli@6.0.1...webpack-cli@6.0.2) (2025-02-21)
+
+### Bug Fixes
+
+- correct `nodeEnv` type in `WebpackDevServerOptions` ([#4378](https://github.com/webpack/webpack-cli/issues/4378)) ([dcf4581](https://github.com/webpack/webpack-cli/commit/dcf4581d234a669f6c922594eaa6b30086685b86))
+
 ## [6.0.1](https://github.com/webpack/webpack-cli/compare/webpack-cli@6.0.0...webpack-cli@6.0.1) (2024-12-20)
 
 ### Bug Fixes
